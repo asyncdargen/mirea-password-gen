@@ -15,5 +15,6 @@
 - .gitignore
 - README.md
 
-Скриншот ![Главный экран](screenshots/1.png)
+Скриншот ![Главный экран](screenshot.png)
+Сайт: https://mirea-password-gen.vercel.app/
 Репозиторий: https://github.com/asyncdargen/mirea-password-gen
