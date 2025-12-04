@@ -16,4 +16,4 @@
 - README.md
 
 Скриншот ![Главный экран](screenshots/1.png)
-Репозиторий (пример): https://github.com/asyncdargen/mirea-password-gen]
+Репозиторий: https://github.com/asyncdargen/mirea-password-gen
